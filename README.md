@@ -4,7 +4,7 @@
 Hi! I'm Hooman Azizi-Asl, a data science student in my 5th week. I'm passionate about exploring the world of data and its potential to solve problems. 
 I'm particularly interested in learning data analysis techniques, machine learning algorithms, and data visualization to unlock insights from data.  
 
-I share some of my projects during my nootcamp in here:
+I share some of my projects in here:
 
 Project 1: Holiday Cost Calculator
 
